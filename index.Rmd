@@ -7,3 +7,46 @@ output:
 ---
 
 # Welcome to Li Tian's website
+
+Welcome to my personal website! Here you can find information about my academic and professional experience.
+
+
+<img src="id_photo.jpg" style="width:55%">
+
+* [Resume](resume_tl.pdf)
+
+## EDUCATION
+**Columbia University** 08/2023 - present\
+*M.S. Biostatistics*\
+**The College of Wooster** 09/2018 - 05/2022\
+*B.A. of Mathematics*
+
+## WORKING EXPERIENCE
+**Everbright Securities**\
+- Collected relevant information about the Lehman Brothers bankruptcy and Western National Bank(WNB)to
+analyze whether the US government invoked the orderly liquidation fund (OLF) to save them\
+- Analyzed foreign pension mechanism including defined benefits and defined contribution, summarized all details
+of the information\
+**Gaotu Techedu Inc**\
+- Design the website payment interface buried point, analyze the successful payment procedure data\
+- Allocate AD spend across different platforms by comparing data from different advertising channels\
+**CPCEP Company**\
+- Managed exhibitions for company\
+- Used Microsoft office to create meeting materials for introductions of different energy saving websites
+
+## ACADEMIC EXPERIENCE
+**Investigating the Actors Scheduling Problem using the Branch and Bound Algorithm**\
+
+* Introduced useful knowledge of the branch-and-bound approach, double-ended search, dominance rules, and dynamic programming techniques to solve film scene scheduling problems
+
+**Four Victories by the Nine-tailed Fox**\
+
+* Analyzed why the win rate for each champion was not exactly 50%, simulated the probability of the number of the player uses specified champion until win four times of the game
+
+**Investment Strategy**\
+
+* Maximized the client’s revenue, used linear programming to analyzed different situations for giving appropriates suggestions to clients, solved linear programming by doing sensitivity analysis
+
+**Modelling the Spread of a Virus**\
+
+* Used binomial distribution to obtain the probability, used the recursive sequence, plotted the barplot with R. Derived that the probability of the susceptible individual that did get infected by all infected individual

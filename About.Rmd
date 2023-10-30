@@ -1,0 +1,7 @@
+---
+title: "About"
+output: html_document
+---
+
+## I use R Markdown to build a basic website and host it on Github. \
+## You can download my resume with more details from the resume link in the "Home" page.
