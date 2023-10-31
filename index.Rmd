@@ -52,4 +52,4 @@ of the information\
 * Used binomial distribution to obtain the probability, used the recursive sequence, plotted the barplot with R. Derived that the probability of the susceptible individual that did get infected by all infected individual
 
 ## PLOTLY STUFF
-The access for problem2 [**flexdashboard**](dashboard.html)
+Here is the access for problem2 [**flexdashboard**](dashboard.html)
