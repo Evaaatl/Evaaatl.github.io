@@ -50,3 +50,6 @@ of the information\
 **Modelling the Spread of a Virus**\
 
 * Used binomial distribution to obtain the probability, used the recursive sequence, plotted the barplot with R. Derived that the probability of the susceptible individual that did get infected by all infected individual
+
+## PLOTLY STUFF
+The access for problem2 [**flexdashboard**](dashboard.html)
