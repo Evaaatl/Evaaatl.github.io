@@ -12,7 +12,7 @@ library(p8105.datasets)
 library(plotly)
 ```
 ```{r}
-install.packages(c("flexdashboard", "plotly", "dplyr", "readr"))
+
 library(flexdashboard)
 library(plotly)
 library(dplyr)
